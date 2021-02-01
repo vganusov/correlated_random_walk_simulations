@@ -1,0 +1,3 @@
+The Mathematica notebook file can be downloaded and opened with Mathematica (vs 12). 
+Github by default treats the file as text, so copy the text and paste it into an filename.nb file
+which can be then be opened by Mathematica
